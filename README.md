@@ -1,4 +1,4 @@
-# Food-Spectra-Optical-Fluorescence-Analyzer
+# Food Spectra: Optical Fluorescence Analyzer
 Portable, non-destructive optical sensing system using ESP32 and an AS7343 14-channel spectral sensor to detect Metanil Yellow and lead chromate adulteration in ground turmeric via UV fluorescence and spectral reflectance.
 ## Key Features
 * **Rapid & Non-Destructive:** Delivers real-time sample classification in `< 1.5 seconds` without damaging the sample.
